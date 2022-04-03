@@ -7,7 +7,7 @@ This simple project was built with some tools such us:
 
 ## Steps to run the project:
 
-1. Clone the project from GitHub.If you have installed git your pc or you can download it directly from github.
+1. Clone the project from GitHub.If you have git installed on your pc or you also  could download it directly from github.
 
 ``` bash
 $ git clone https://github.com/JuanGuevara90/RandomUser-ReactJS.git
