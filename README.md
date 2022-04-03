@@ -1,8 +1,8 @@
 # Random User project using ReactJS
 
 This simple project was built with some tools such us:
-* React v17.0.2
-* TailwindCSS v3.0.23
+* React v17.0.2.
+* TailwindCSS v3.0.23.
 * API Random user [Link](https://randomuser.me/).
 
 ## Steps to run the project:
